@@ -130,6 +130,7 @@ L'Interactive Idea Generator peut aider à créer des concepts pour :
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## 👤 Auteur
+**Maurille KOMI**
 
 **18325**
 
